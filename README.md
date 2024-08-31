@@ -106,6 +106,7 @@ Please refer to the [`dev-server` documentation](https://github.com/ioBroker/dev
 	### **WORK IN PROGRESS**
 -->
 ### **WORK IN PROGRESS**
+* (csicom) test1
 
 ### 0.0.2-alpha.0 (2024-08-31)
 * (csicom) initial release
