@@ -79,7 +79,7 @@
     "test": "npm run test:js && npm run test:package",
     "test1": "mocha ./test/*.test.js",
     "check": "tsc --noEmit -p tsconfig.check.json",
-    "lint": "eslint --ext .js. .jsx",
+    "lint": "eslint --ext .js, src-widgets/src/*.jsx",
     "lint_W": "eslint src-widgets/src/*.jsx",
     "translate": "translate-adapter",
     "release": "release-script",
