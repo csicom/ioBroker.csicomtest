@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "csicomtest",
-    "version": "0.0.3-alpha.0",
+    "version": "0.0.4-alpha.0",
     "news": {
+      "0.0.4-alpha.0": {
+        "en": "test2",
+        "de": "test2",
+        "ru": "испытание2",
+        "pt": "test2",
+        "nl": "test2",
+        "fr": "essai2",
+        "it": "test2",
+        "es": "test2",
+        "pl": "test2",
+        "uk": "тест2",
+        "zh-cn": "测试2"
+      },
       "0.0.3-alpha.0": {
         "en": "test1",
         "de": "prüfverfahren",
