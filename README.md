@@ -105,8 +105,9 @@ Please refer to the [`dev-server` documentation](https://github.com/ioBroker/dev
 	Placeholder for the next version (at the beginning of the line):
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 0.0.7-alpha.0 (2024-08-31)
 * (csicom) test4
+
 ### 0.0.6-alpha.0 (2024-08-31)
 * (csicom) test4
 

@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "csicomtest",
-    "version": "0.0.6-alpha.0",
+    "version": "0.0.7-alpha.0",
     "news": {
+      "0.0.7-alpha.0": {
+        "en": "test4",
+        "de": "test4",
+        "ru": "test4",
+        "pt": "test4",
+        "nl": "test4",
+        "fr": "essai4",
+        "it": "test4",
+        "es": "test4",
+        "pl": "test4",
+        "uk": "тест4",
+        "zh-cn": "测试4"
+      },
       "0.0.6-alpha.0": {
         "en": "test4",
         "de": "test4",
