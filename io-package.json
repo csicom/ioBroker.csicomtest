@@ -45,7 +45,7 @@
 			"zh-cn": "只是一个测试。"
 		},
 		"authors": ["csicom <csicom@csicomnet.de>"],
-		"keywords": ["ioBroker", "template", "Smart Home", "home automation"],
+		"keywords": ["csicom", "test"],
 		"license": "MIT",
 		"licenseInformation": {
 			"type": "free",
