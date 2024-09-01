@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "csicomtest",
-    "version": "0.0.15",
+    "version": "0.0.16",
     "news": {
+      "0.0.16": {
+        "en": "test_12",
+        "de": "prüfverfahren",
+        "ru": "test_12",
+        "pt": "test_12",
+        "nl": "test_12",
+        "fr": "test_12",
+        "it": "test_12",
+        "es": "test_12",
+        "pl": "test _ 12",
+        "uk": "тест_12",
+        "zh-cn": "测试_ 12"
+      },
       "0.0.15": {
         "en": "test_11",
         "de": "prüfverfahren",
@@ -80,19 +93,6 @@
         "pl": "test7",
         "uk": "тест7",
         "zh-cn": "测试7"
-      },
-      "0.0.9": {
-        "en": "test6",
-        "de": "prüfverfahren",
-        "ru": "test6",
-        "pt": "teste6",
-        "nl": "test6",
-        "fr": "essai6",
-        "it": "test6",
-        "es": "test6",
-        "pl": "test6",
-        "uk": "тест6",
-        "zh-cn": "测试6"
       }
     },
     "titleLang": {
