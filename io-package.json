@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "csicomtest",
-    "version": "0.0.12",
+    "version": "0.0.13",
     "news": {
+      "0.0.13": {
+        "en": "npm test",
+        "de": "npm-test",
+        "ru": "npm тест",
+        "pt": "teste npm",
+        "nl": "npm-test",
+        "fr": "essai de npm",
+        "it": "npm test",
+        "es": "prueba de npm",
+        "pl": "badanie npm",
+        "uk": "npm тест",
+        "zh-cn": "npm 测试"
+      },
       "0.0.12": {
         "en": "test8",
         "de": "test8",
@@ -80,19 +93,6 @@
         "pl": "test5",
         "uk": "тест5",
         "zh-cn": "测试5"
-      },
-      "0.0.7-alpha.0": {
-        "en": "test4",
-        "de": "test4",
-        "ru": "test4",
-        "pt": "test4",
-        "nl": "test4",
-        "fr": "essai4",
-        "it": "test4",
-        "es": "test4",
-        "pl": "test4",
-        "uk": "тест4",
-        "zh-cn": "测试4"
       }
     },
     "title": "csicomtest",
