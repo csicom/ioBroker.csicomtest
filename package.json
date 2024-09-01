@@ -1,6 +1,6 @@
 {
   "name": "iobroker.csicomtest",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "Only a test.",
   "author": {
     "name": "csicom",
@@ -59,7 +59,7 @@
     "sinon-chai": "^4.0.0",
     "typescript": "~5.5.4"
   },
-  "main": "main.js",
+  "main": "widgets/csicomtest/customWidgets.js",
   "files": [
     "admin/",
     "img/",
