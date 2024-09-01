@@ -72,7 +72,7 @@
   ],
   "scripts": {
     "prepublishOnly": "gulp",
-    "build": "gulp -debug",
+    "build": "gulp",
     "test:js": "mocha --config test/mocharc.custom.json \"{!(node_modules|test)/**/*.test.js,*.test.js,test/**/test!(PackageFiles|Startup).js}\"",
     "test:package": "mocha test/package --exit",
     "test:integration": "mocha test/integration --exit",

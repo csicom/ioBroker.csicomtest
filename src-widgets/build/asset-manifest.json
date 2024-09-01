@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.js": "./static/js/main.3ab8ad53.js",
+    "vis2csicomtestWidgets.js": "./customWidgets.js",
+    "static/js/node_modules_react_jsx-runtime_js-_c9180.4737ba92.chunk.js": "./static/js/node_modules_react_jsx-runtime_js-_c9180.4737ba92.chunk.js",
+    "static/js/node_modules_react_jsx-runtime_js-_c9181.f6243449.chunk.js": "./static/js/node_modules_react_jsx-runtime_js-_c9181.f6243449.chunk.js",
+    "static/js/node_modules_clsx_dist_clsx_mjs.aa41554c.chunk.js": "./static/js/node_modules_clsx_dist_clsx_mjs.aa41554c.chunk.js",
+    "static/js/node_modules_prop-types_index_js.a5a37e4b.chunk.js": "./static/js/node_modules_prop-types_index_js.a5a37e4b.chunk.js",
+    "static/js/node_modules_react_index_js.27ff650a.chunk.js": "./static/js/node_modules_react_index_js.27ff650a.chunk.js",
+    "static/js/src_csicom1_jsx.c6548fde.chunk.js": "./static/js/src_csicom1_jsx.c6548fde.chunk.js",
+    "static/js/src_translations_js.5d7d5d34.chunk.js": "./static/js/src_translations_js.5d7d5d34.chunk.js",
+    "static/js/vendors-node_modules_mui_system_index_js.3e1df31a.chunk.js": "./static/js/vendors-node_modules_mui_system_index_js.3e1df31a.chunk.js",
+    "static/js/vendors-node_modules_react-dom_index_js.572eaf4c.chunk.js": "./static/js/vendors-node_modules_react-dom_index_js.572eaf4c.chunk.js",
+    "static/js/vendors-node_modules_mui_system_DefaultPropsProvider_DefaultPropsProvider_js-node_modules_mui-d9e9bd.e34756b0.chunk.js": "./static/js/vendors-node_modules_mui_system_DefaultPropsProvider_DefaultPropsProvider_js-node_modules_mui-d9e9bd.e34756b0.chunk.js",
+    "static/js/vendors-node_modules_mui_material_index_js.4fa44c5e.chunk.js": "./static/js/vendors-node_modules_mui_material_index_js.4fa44c5e.chunk.js",
+    "index.html": "./index.html",
+    "main.3ab8ad53.js.map": "./static/js/main.3ab8ad53.js.map",
+    "customWidgets.js.map": "./customWidgets.js.map",
+    "node_modules_react_jsx-runtime_js-_c9180.4737ba92.chunk.js.map": "./static/js/node_modules_react_jsx-runtime_js-_c9180.4737ba92.chunk.js.map",
+    "node_modules_react_jsx-runtime_js-_c9181.f6243449.chunk.js.map": "./static/js/node_modules_react_jsx-runtime_js-_c9181.f6243449.chunk.js.map",
+    "node_modules_clsx_dist_clsx_mjs.aa41554c.chunk.js.map": "./static/js/node_modules_clsx_dist_clsx_mjs.aa41554c.chunk.js.map",
+    "node_modules_prop-types_index_js.a5a37e4b.chunk.js.map": "./static/js/node_modules_prop-types_index_js.a5a37e4b.chunk.js.map",
+    "node_modules_react_index_js.27ff650a.chunk.js.map": "./static/js/node_modules_react_index_js.27ff650a.chunk.js.map",
+    "src_csicom1_jsx.c6548fde.chunk.js.map": "./static/js/src_csicom1_jsx.c6548fde.chunk.js.map",
+    "src_translations_js.5d7d5d34.chunk.js.map": "./static/js/src_translations_js.5d7d5d34.chunk.js.map",
+    "vendors-node_modules_mui_system_index_js.3e1df31a.chunk.js.map": "./static/js/vendors-node_modules_mui_system_index_js.3e1df31a.chunk.js.map",
+    "vendors-node_modules_react-dom_index_js.572eaf4c.chunk.js.map": "./static/js/vendors-node_modules_react-dom_index_js.572eaf4c.chunk.js.map",
+    "vendors-node_modules_mui_system_DefaultPropsProvider_DefaultPropsProvider_js-node_modules_mui-d9e9bd.e34756b0.chunk.js.map": "./static/js/vendors-node_modules_mui_system_DefaultPropsProvider_DefaultPropsProvider_js-node_modules_mui-d9e9bd.e34756b0.chunk.js.map",
+    "vendors-node_modules_mui_material_index_js.4fa44c5e.chunk.js.map": "./static/js/vendors-node_modules_mui_material_index_js.4fa44c5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3ab8ad53.js"
+  ]
+}

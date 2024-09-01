@@ -1,13 +1,14 @@
 .git
 .dev-server
-/src-widgets/package-lock.json
-/src-widgets/build/
-/node_modules
-/package-lock.json
-/src-widgets/build
-/src-widgets/node_modules
-/src-widgets/package-lock.json
-/.idea
-# /widgets
-/tmp
+tmp
 *.tgz
+/.idea
+node_modules
+package-lock.json
+widgets
+src-widgets-js/node_modules
+src-widgets-js/package-lock.json
+src-widgets-js/build
+src-widgets-ts/node_modules
+src-widgets-ts/package-lock.json
+src-widgets-ts/build

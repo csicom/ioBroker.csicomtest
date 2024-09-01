@@ -95,7 +95,6 @@
         "zh-cn": "测试5"
       }
     },
-    "title": "csicomtest",
     "titleLang": {
       "en": "csicomtest",
       "de": "csicomtest",
@@ -134,7 +133,7 @@
       "license": "MIT"
     },
     "platform": "Javascript/Node.js",
-    "main": "main.js",
+    "main": "widgets/csicomtest/customWidgets.js",
     "icon": "csicomtest.png",
     "enabled": true,
     "extIcon": "https://raw.githubusercontent.com/csicom/ioBroker.csicomtest/main/admin/csicomtest.png",
