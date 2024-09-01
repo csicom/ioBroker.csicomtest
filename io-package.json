@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "csicomtest",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "news": {
+      "0.0.12": {
+        "en": "test8",
+        "de": "test8",
+        "ru": "тест8",
+        "pt": "teste8",
+        "nl": "test8",
+        "fr": "essai8",
+        "it": "test8",
+        "es": "test8",
+        "pl": "test8",
+        "uk": "тест8",
+        "zh-cn": "测试8"
+      },
       "0.0.11": {
         "en": "test8",
         "de": "test8",
@@ -69,19 +82,6 @@
         "zh-cn": "测试5"
       },
       "0.0.7-alpha.0": {
-        "en": "test4",
-        "de": "test4",
-        "ru": "test4",
-        "pt": "test4",
-        "nl": "test4",
-        "fr": "essai4",
-        "it": "test4",
-        "es": "test4",
-        "pl": "test4",
-        "uk": "тест4",
-        "zh-cn": "测试4"
-      },
-      "0.0.6-alpha.0": {
         "en": "test4",
         "de": "test4",
         "ru": "test4",
