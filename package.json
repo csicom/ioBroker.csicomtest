@@ -59,7 +59,7 @@
     "sinon-chai": "^4.0.0",
     "typescript": "~5.5.4"
   },
-  "main": "widgets/csicomtest/customWidgets.js",
+  "main": "main.js",
   "files": [
     "admin/",
     "img/",

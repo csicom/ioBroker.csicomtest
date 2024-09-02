@@ -133,7 +133,7 @@
       "license": "MIT"
     },
     "platform": "Javascript/Node.js",
-    "main": "widgets/csicomtest/customWidgets.js",
+    "main": "main.js",
     "icon": "csicomtest.png",
     "enabled": true,
     "extIcon": "https://raw.githubusercontent.com/csicom/ioBroker.csicomtest/main/admin/csicomtest.png",
