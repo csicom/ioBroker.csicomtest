@@ -140,7 +140,7 @@
     "readme": "https://github.com/csicom/ioBroker.csicomtest/blob/main/README.md",
     "loglevel": "info",
     "visWidgets": {
-      "vis2energyWidgets": {
+      "vis2csicomtestWidgets": {
         "i18n": "component",
         "name": "vis2csicomtestWidgets",
         "url": "csicomtest/customWidgets.js",
