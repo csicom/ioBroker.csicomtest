@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "csicomtest",
-    "version": "0.0.18",
+    "version": "0.0.19",
     "news": {
+      "0.0.19": {
+        "en": "test_15",
+        "de": "prüfverfahren",
+        "ru": "test_15",
+        "pt": "test_15",
+        "nl": "test_15",
+        "fr": "test_15",
+        "it": "test_15",
+        "es": "test_15",
+        "pl": "test _ 15",
+        "uk": "тест_15",
+        "zh-cn": "测试_15"
+      },
       "0.0.18": {
         "en": "test_14",
         "de": "prüfverfahren",
@@ -80,19 +93,6 @@
         "pl": "badanie npm",
         "uk": "npm тест",
         "zh-cn": "npm 测试"
-      },
-      "0.0.12": {
-        "en": "test8",
-        "de": "test8",
-        "ru": "тест8",
-        "pt": "teste8",
-        "nl": "test8",
-        "fr": "essai8",
-        "it": "test8",
-        "es": "test8",
-        "pl": "test8",
-        "uk": "тест8",
-        "zh-cn": "测试8"
       }
     },
     "titleLang": {
